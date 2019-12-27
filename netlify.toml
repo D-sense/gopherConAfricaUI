@@ -1,0 +1,5 @@
+[build]
+publish = "dist"
+
+[context.production.environment]
+GIT_LFS_ENABLED = "true"
