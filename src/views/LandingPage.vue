@@ -72,7 +72,7 @@
               <li>
                 <i class="lni-calendar"></i>
               </li>
-              <li><span><b>Date & Time</b> 10am - 7pm, 15th Oct</span></li>
+              <li><span><b>Date & Time</b> 14-16 July  8am - 6pm Daily</span></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-xs-12">
@@ -230,14 +230,7 @@
                   </div>
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" id="thursday-tab" data-toggle="tab" href="#thursday" role="tab" aria-controls="thursday">
-                  <div class="item-text">
-                    <h4>Day 04</h4>
-                    <h5>17 February 2020</h5>
-                  </div>
-                </a>
-              </li>
+            
             </ul>
           </div>
           <div class="col-12">
@@ -440,152 +433,8 @@
                       </div>
                     </div>
                   </div>
-                  <div class="tab-pane fade" id="thursday" role="tabpanel" aria-labelledby="thursday-tab">
-                    <div id="accordion4">
-                      <div class="card">
-                        <div id="headingOne">
-                          <div class="schedule-slot-time">
-                            <span> 9.30 - 10.30 AM</span>
-                            Workshop
-                          </div>
-                          <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne4" aria-expanded="false" aria-controls="collapseOne4">
-                            <div class="images-box">
-                              <img class="img-fluid" src="assets/img/speaker/speakers-2.jpg" alt="">
-                            </div>
-                            <h4>Web Design Principles and Best Practices</h4>
-                            <h5 class="name">David Warner</h5>
-                          </div>
-                        </div>
-                        <div id="collapseOne4" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion4">
-                          <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
-                            <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="card">
-                        <div id="headingTwo">
-                          <div class="schedule-slot-time">
-                            <span> 10.30 - 11.30 AM</span>
-                            Workshop
-                          </div>
-                          <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo4" aria-expanded="false" aria-controls="collapseTwo4">
-                            <div class="images-box">
-                              <img class="img-fluid" src="assets/img/speaker/speakers-1.jpg" alt="">
-                            </div>
-                            <h4>Web Design Principles and Best Practices</h4>
-                            <h5 class="name">David Warner</h5>
-                          </div>
-                        </div>
-                        <div id="collapseTwo4" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion4">
-                          <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
-                            <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="card">
-                        <div id="headingThree4">
-                          <div class="schedule-slot-time">
-                            <span> 11.30 - 12.30 AM</span>
-                            Workshop
-                          </div>
-                          <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree4" aria-expanded="false" aria-controls="collapseThree4">
-                            <div class="images-box">
-                              <img class="img-fluid" src="assets/img/speaker/speakers-3.jpg" alt="">
-                            </div>
-                            <h4>Web Design Principles and Best Practices</h4>
-                            <h5 class="name">David Warner</h5>
-                          </div>
-                        </div>
-                        <div id="collapseThree4" class="collapse" aria-labelledby="headingThree" data-parent="#accordion4">
-                          <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
-                            <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="tab-pane fade" id="friday" role="tabpanel" aria-labelledby="friday-tab">
-                    <div id="accordion">
-                      <div class="card">
-                        <div id="headingOne">
-                          <div class="schedule-slot-time">
-                            <span> 9.30 - 10.30 AM</span>
-                            Workshop
-                          </div>
-                          <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <div class="images-box">
-                              <img class="img-fluid" src="assets/img/speaker/speakers-2.jpg" alt="">
-                            </div>
-                            <h4>Web Design Principles and Best Practices</h4>
-                            <h5 class="name">David Warner</h5>
-                          </div>
-                        </div>
-                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                          <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
-                            <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="card">
-                        <div id="headingTwo">
-                          <div class="schedule-slot-time">
-                            <span> 10.30 - 11.30 AM</span>
-                            Workshop
-                          </div>
-                          <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                            <div class="images-box">
-                              <img class="img-fluid" src="assets/img/speaker/speakers-1.jpg" alt="">
-                            </div>
-                            <h4>Web Design Principles and Best Practices</h4>
-                            <h5 class="name">David Warner</h5>
-                          </div>
-                        </div>
-                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                          <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
-                            <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="card">
-                        <div id="headingThree">
-                          <div class="schedule-slot-time">
-                            <span> 11.30 - 12.30 AM</span>
-                            Workshop
-                          </div>
-                          <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <div class="images-box">
-                              <img class="img-fluid" src="assets/img/speaker/speakers-3.jpg" alt="">
-                            </div>
-                            <h4>Web Design Principles and Best Practices</h4>
-                            <h5 class="name">David Warner</h5>
-                          </div>
-                        </div>
-                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                          <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
-                            <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                  
+                
                 </div>
               </div>
             </div>
