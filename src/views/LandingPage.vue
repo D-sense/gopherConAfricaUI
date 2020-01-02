@@ -7,8 +7,8 @@
       <mdbNavbarBrand><a href="/" class="logo">GOPHERCON AFRICA</a></mdbNavbarBrand>  
         <mdb-navbar-toggler style="max-width: 1140px">
           <mdb-navbar-nav right>
-
-            <!-- <mdb-dropdown>
+<!-- 
+            <mdb-dropdown>
               <mdb-dropdown-toggle slot="toggle">Basic dropdown</mdb-dropdown-toggle>
               <mdb-dropdown-menu>
                 <mdb-dropdown-item>Action</mdb-dropdown-item>
@@ -18,8 +18,19 @@
                 <mdb-dropdown-item>Separated link</mdb-dropdown-item>
               </mdb-dropdown-menu>
             </mdb-dropdown> -->
+<!-- 
+            <div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown link
+  </a>
 
-            <mdb-nav-item href="#about" waves-fixed>About</mdb-nav-item>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+  </div>
+</div> -->
+
             <mdb-nav-item href="#schedules" waves-fixed>Schedules</mdb-nav-item>
             <mdb-nav-item href="#team" waves-fixed>Speakers</mdb-nav-item>
             <mdb-nav-item href="#sponsors"  waves-fixed>Partners</mdb-nav-item>
@@ -135,8 +146,11 @@
                  <div class="about-p">  
                   <h4>About GopherconAfrica</h4>
                   GopherconAfrica conference is brought to you by volunteer gophers together with nectarhub.io Gophercon Africa is a single-track event which makes our attendees experience all our speakers, live and onsite. Sometimes it’s difficult to choose between sessions and we have curated our talks for a single track.
-                  
+                </div>
+                <div class="about-p">  
                   Day 2 has been set aside for tutorials, Day 2 for talks and Day 3 for more talks and the community day.
+                  </div>
+                  <div class="about-p">  
                   Official Conference Communication method: English and ASL
                  </div>
                 </div>
@@ -694,7 +708,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Gopher Partners</h2>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Gophercon Africa is a non-profit event and partnering with amazing organizations like yours would make our conference a world-class. Let's make history together! Find our prospectus  here </p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Gophercon Africa is a non-profit event and partnering with amazing organizations like yours would make our conference a world-class. Let's make history together! Request prospectus at gopherconafrica@nectarhub.io </p>
             </div>
           </div>
         </div>
@@ -845,7 +859,10 @@
       height: 100px;
     }
 
-    /* .about-p{
-      margin-bottom: 20px;
-    } */
+    .about-p{
+      margin-bottom: 30px;
+    }
+    .dropdown-menu{
+      margin-top: 350px;
+    }
 </style>
