@@ -284,7 +284,7 @@
                           <div class="card-body">
                             <p>details soon is appropriate</p>
                             <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
+                              <span>Location:</span> Hall 1 , Building A, Golden Street, Lagos
                             </div>
                           </div>
                         </div>
@@ -307,7 +307,7 @@
                           <div class="card-body">
                             <p>details soon is appropriate</p>
                             <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
+                              <span>Location:</span> Hall 1 , Building A, Golden Street, Lagos
                             </div>
                           </div>
                         </div>
@@ -330,7 +330,7 @@
                           <div class="card-body">
                             <p>details soon is appropriate</p>
                             <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
+                              <span>Location:</span> Hall 1 , Building A, Golden Street, Lagos
                             </div>
                           </div>
                         </div>
@@ -357,7 +357,7 @@
                           <div class="card-body">
                             <p>details soon is appropriate</p>
                             <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
+                              <span>Location:</span> Hall 1 , Building A, Golden Street, Lagos
                             </div>
                           </div>
                         </div>
@@ -380,7 +380,7 @@
                           <div class="card-body">
                             <p>details soon is appropriate</p>
                             <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
+                              <span>Location:</span> Hall 1 , Building A, Golden Street, Lagos
                             </div>
                           </div>
                         </div>
@@ -407,7 +407,7 @@
                           <div class="card-body">
                             <p>details soon is appropriate</p>
                             <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
+                              <span>Location:</span> Hall 1 , Building A, Golden Street, Lagos
                             </div>
                           </div>
                         </div>
@@ -430,7 +430,7 @@
                           <div class="card-body">
                             <p>details soon is appropriate</p>
                             <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
+                              <span>Location:</span> Hall 1 , Building A, Golden Street, Lagos
                             </div>
                           </div>
                         </div>
@@ -453,7 +453,7 @@
                           <div class="card-body">
                             <p>details soon is appropriate</p>
                             <div class="location">
-                              <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
+                              <span>Location:</span> Hall 1 , Building A, Golden Street, Lagos
                             </div>
                           </div>
                         </div>
