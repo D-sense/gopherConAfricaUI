@@ -7,6 +7,18 @@
       <mdbNavbarBrand><a href="/" class="logo">GOPHERCON AFRICA</a></mdbNavbarBrand>  
         <mdb-navbar-toggler style="max-width: 1140px">
           <mdb-navbar-nav right>
+
+            <!-- <mdb-dropdown>
+              <mdb-dropdown-toggle slot="toggle">Basic dropdown</mdb-dropdown-toggle>
+              <mdb-dropdown-menu>
+                <mdb-dropdown-item>Action</mdb-dropdown-item>
+                <mdb-dropdown-item>Another action</mdb-dropdown-item>
+                <mdb-dropdown-item>Something else here</mdb-dropdown-item>
+                <div class="dropdown-divider"></div>
+                <mdb-dropdown-item>Separated link</mdb-dropdown-item>
+              </mdb-dropdown-menu>
+            </mdb-dropdown> -->
+
             <mdb-nav-item href="#about" waves-fixed>About</mdb-nav-item>
             <mdb-nav-item href="#schedules" waves-fixed>Schedules</mdb-nav-item>
             <mdb-nav-item href="#team" waves-fixed>Speakers</mdb-nav-item>
@@ -173,7 +185,7 @@
                 <i class="lni-bulb"></i>
               </div>
               <div class="counter-content">
-                <div class="counterUp">1000</div>
+                <div class="counterUp">250</div>
                 <p>Seats</p>
               </div>
             </div>
@@ -258,7 +270,7 @@
                         <div id="headingOne">
                           <div class="schedule-slot-time">
                             <span> 9.30 - 10.30 AM</span>
-                            Workshop
+                            Tutorial 1
                           </div>
                           <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                             <div class="images-box">
@@ -281,7 +293,7 @@
                         <div id="headingTwo">
                           <div class="schedule-slot-time">
                             <span> 10.30 - 11.30 AM</span>
-                            Workshop
+                             Tutorial 2
                           </div>
                           <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                             <div class="images-box">
@@ -304,7 +316,7 @@
                         <div id="headingThree">
                           <div class="schedule-slot-time">
                             <span> 11.30 - 12.30 AM</span>
-                            Workshop
+                             Tutorial 3
                           </div>
                           <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                             <div class="images-box">
@@ -331,7 +343,7 @@
                         <div id="headingOne1">
                           <div class="schedule-slot-time">
                             <span> 1.30 - 2.30 AM</span>
-                            Workshop
+                            Talk 1
                           </div>
                           <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
                             <div class="images-box">
@@ -354,7 +366,7 @@
                         <div id="headingTwo2">
                           <div class="schedule-slot-time">
                             <span> 9.30 - 10.30 AM</span>
-                            Workshop
+                             Talk 2
                           </div>
                           <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne1" aria-expanded="false" aria-controls="collapseOne1">
                             <div class="images-box">
@@ -381,7 +393,7 @@
                         <div id="headingOne3">
                           <div class="schedule-slot-time">
                             <span> 10.30 - 11.30 AM</span>
-                            Workshop
+                             Community 1
                           </div>
                           <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseOne3" aria-expanded="false" aria-controls="collapseOne3">
                             <div class="images-box">
@@ -404,7 +416,7 @@
                         <div id="headingTwo3">
                           <div class="schedule-slot-time">
                             <span> 11.30 - 12.30 AM</span>
-                            Workshop
+                            Community 2
                           </div>
                           <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseTwo3" aria-expanded="false" aria-controls="collapseTwo3">
                             <div class="images-box">
@@ -427,7 +439,7 @@
                         <div id="headingThree3">
                           <div class="schedule-slot-time">
                             <span> 1.30 - 2.30 AM</span>
-                            Workshop
+                            Community 3
                           </div>
                           <div class="collapsed card-header" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
                             <div class="images-box">
@@ -727,7 +739,7 @@
               <li>
                 <i class="lni-phone"></i>
               </li>
-              <li><span>+000 123 456 79</span></li>
+              <li><span>+2348120231495</span></li>
             </ul>
           </div>
           <div class="col-lg-4 col-md-3 col-xs-12">
@@ -777,10 +789,14 @@
 </template>
  
 <script>
-  import { mdbContainer, mdbRow, mdbCol, ViewWrapper, mdbMask, mdbBtn, mdbIcon, mdbNavbar, mdbNavItem, mdbNavbarNav, mdbNavbarToggler, mdbNavbarBrand  } from 'mdbvue';
+  import { mdbDropdown, mdbDropdownItem, mdbDropdownMenu, mdbDropdownToggle, mdbContainer, mdbRow, mdbCol, ViewWrapper, mdbMask, mdbBtn, mdbIcon, mdbNavbar, mdbNavItem, mdbNavbarNav, mdbNavbarToggler, mdbNavbarBrand  } from 'mdbvue';
   export default {
     name: 'VideoBackgroundPage',
     components: {
+      mdbDropdown,
+      mdbDropdownItem,
+      mdbDropdownMenu,
+      mdbDropdownToggle,
       mdbContainer,    
       mdbNavbar,
       mdbNavItem,
