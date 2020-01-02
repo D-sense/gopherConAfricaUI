@@ -789,14 +789,16 @@
 </template>
  
 <script>
-  import { mdbDropdown, mdbDropdownItem, mdbDropdownMenu, mdbDropdownToggle, mdbContainer, mdbRow, mdbCol, ViewWrapper, mdbMask, mdbBtn, mdbIcon, mdbNavbar, mdbNavItem, mdbNavbarNav, mdbNavbarToggler, mdbNavbarBrand  } from 'mdbvue';
+  import {
+    //  mdbDropdown, mdbDropdownItem, mdbDropdownMenu, mdbDropdownToggle, 
+     mdbContainer, mdbRow, mdbCol, ViewWrapper, mdbMask, mdbBtn, mdbIcon, mdbNavbar, mdbNavItem, mdbNavbarNav, mdbNavbarToggler, mdbNavbarBrand  } from 'mdbvue';
   export default {
     name: 'VideoBackgroundPage',
     components: {
-      mdbDropdown,
-      mdbDropdownItem,
-      mdbDropdownMenu,
-      mdbDropdownToggle,
+      // mdbDropdown,
+      // mdbDropdownItem,
+      // mdbDropdownMenu,
+      // mdbDropdownToggle,
       mdbContainer,    
       mdbNavbar,
       mdbNavItem,
