@@ -40,9 +40,9 @@
                   <div></div>
                 </div>
                 
-                <!-- <div class="banner-btn">
-                  <a href="#" class="btn btn-common">Call for Speakers</a>
-                </div> -->
+                <div class="banner-btn">
+                  <a href="https://sessionize.com/gopherconafrica-2020/" class="btn btn-common">Call for Speakers</a>
+                </div>
                 
               </div>
             </div>
@@ -110,8 +110,23 @@
             <div class="about-content">
               <div>
                 <div class="about-text">  
-                  <h2>About Gophercon Africa</h2>
-                  <p>GopherconAfrica conference is brought to you by volunteer gophers together with nectarhub.io and to achieve a world-class conference requires the support of an organization, like yours, that is committed to the power of ideas and innovation. It is our pleasure to offer your organization an exciting opportunity to become a valuable supporter of the conference and be part of the new movement towards enriching the minds of the software community within the continent.</p>
+                  <div class="about-p">
+                    <h2> About GO</h2>
+                     Go, also known as Golang, is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+                  </div> 
+
+                 <div class="about-p">
+                  <h5> About The Go Community</h5>
+                  The Go Community is one of the fastest-growing communities in the world and this year marked the 10th year of supporting Go developers 
+                 </div>
+
+                 <div class="about-p">  
+                  <h4>About GopherconAfrica</h4>
+                  GopherconAfrica conference is brought to you by volunteer gophers together with nectarhub.io Gophercon Africa is a single-track event which makes our attendees experience all our speakers, live and onsite. Sometimes it’s difficult to choose between sessions and we have curated our talks for a single track.
+                  
+                  Day 2 has been set aside for tutorials, Day 2 for talks and Day 3 for more talks and the community day.
+                  Official Conference Communication method: English and ASL
+                 </div>
                 </div>
                 <ul class="stylish-list mb-3">
                   <li><i class="lni-check-mark-circle"></i>Networking Sessions</li>
@@ -747,7 +762,7 @@
             <div class="social-icons-footer">
               <ul>
                 <li class="facebook"><a target="_blank" href="#"><i class="lni-facebook-filled"></i></a></li>
-                <li class="twitter"><a target="_blank" href="#"><i class="lni-twitter-filled"></i></a></li>
+                <li class="twitter"><a target="_blank" href="https://twitter.com/gopherconafrica"><i class="lni-twitter-filled"></i></a></li>
                 <li class="pinterest"><a target="_blank" href="#"><i class="lni-pinterest"></i></a></li>
               </ul>
             </div>
@@ -812,5 +827,9 @@
     }
     .banner-btn{
       height: 100px;
+    }
+
+    .about-p{
+      margin-bottom: 20px;
     }
 </style>
