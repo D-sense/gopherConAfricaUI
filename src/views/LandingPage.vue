@@ -761,9 +761,7 @@
             </div>
             <div class="social-icons-footer">
               <ul>
-                <li class="facebook"><a target="_blank" href="#"><i class="lni-facebook-filled"></i></a></li>
                 <li class="twitter"><a target="_blank" href="https://twitter.com/gopherconafrica"><i class="lni-twitter-filled"></i></a></li>
-                <li class="pinterest"><a target="_blank" href="#"><i class="lni-pinterest"></i></a></li>
               </ul>
             </div>
             <div class="site-info">
