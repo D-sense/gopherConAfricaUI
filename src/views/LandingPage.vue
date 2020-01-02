@@ -226,7 +226,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Schedules</h2>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem an <br> cule dicta iriure at phaedrum.</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Our proposal submission would be opened next mid- January, stay connected to know when we go live.</p>
             </div>
           </div>
         </div>
@@ -282,7 +282,7 @@
                         </div>
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
+                            <p>details soon is appropriate</p>
                             <div class="location">
                               <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                             </div>
@@ -305,7 +305,7 @@
                         </div>
                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
+                            <p>details soon is appropriate</p>
                             <div class="location">
                               <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                             </div>
@@ -328,7 +328,7 @@
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
+                            <p>details soon is appropriate</p>
                             <div class="location">
                               <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                             </div>
@@ -355,7 +355,7 @@
                         </div>
                         <div id="collapseOne1" class="collapse show" aria-labelledby="headingOne1" data-parent="#accordion2">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
+                            <p>details soon is appropriate</p>
                             <div class="location">
                               <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                             </div>
@@ -378,7 +378,7 @@
                         </div>
                         <div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo2" data-parent="#accordion2">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
+                            <p>details soon is appropriate</p>
                             <div class="location">
                               <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                             </div>
@@ -405,7 +405,7 @@
                         </div>
                         <div id="collapseOne3" class="collapse show" aria-labelledby="headingOne3" data-parent="#accordion3">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
+                            <p>details soon is appropriate</p>
                             <div class="location">
                               <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                             </div>
@@ -428,7 +428,7 @@
                         </div>
                         <div id="collapseTwo3" class="collapse" aria-labelledby="headingTwo3" data-parent="#accordion3">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
+                            <p>details soon is appropriate</p>
                             <div class="location">
                               <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                             </div>
@@ -451,7 +451,7 @@
                         </div>
                         <div id="collapseThree3" class="collapse" aria-labelledby="headingThree3" data-parent="#accordion3">
                           <div class="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet minima dolores rerum maiores qui at commodi quas, reprehenderit eius consectetur quae magni molestias veniam, provident illum facere iure libero asperiores! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam earum nihil ex ipsa magni eligendi fugiat assumenda suscipit, accusantium, necessitatibus reiciendis odit sed, vero amet blanditiis?</p>
+                            <p>details soon is appropriate</p>
                             <div class="location">
                               <span>Location:</span> Hall 1 , Building A, Golden Street, Southafrica
                             </div>
@@ -478,7 +478,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h2 class="section-title wow fadeInUp" data-wow-delay="0.2s">Our Speakers</h2>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Our proposal submission would be opened next mid- January, stay connected to know when we go live.</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Our proposal submission would be opened next January 20, 2020. Stay connected to know when we go live.</p>
             </div>
           </div>
         </div>
@@ -790,7 +790,7 @@
  
 <script>
   import {
-    //  mdbDropdown, mdbDropdownItem, mdbDropdownMenu, mdbDropdownToggle, 
+    //mdbDropdown, mdbDropdownItem, mdbDropdownMenu, mdbDropdownToggle, 
      mdbContainer, mdbRow, mdbCol, ViewWrapper, mdbMask, mdbBtn, mdbIcon, mdbNavbar, mdbNavItem, mdbNavbarNav, mdbNavbarToggler, mdbNavbarBrand  } from 'mdbvue';
   export default {
     name: 'VideoBackgroundPage',
@@ -845,7 +845,7 @@
       height: 100px;
     }
 
-    .about-p{
+    /* .about-p{
       margin-bottom: 20px;
-    }
+    } */
 </style>
