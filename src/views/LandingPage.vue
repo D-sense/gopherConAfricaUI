@@ -5,38 +5,28 @@
     <mdb-navbar class="header" style="margin-top: 60px" color="primary" position="top" dark href="#" transparent scrolling>
       <mdb-container>
       <mdbNavbarBrand><a href="/" class="logo">GOPHERCON AFRICA</a></mdbNavbarBrand>  
+        
+
         <mdb-navbar-toggler style="max-width: 1140px">
+          
           <mdb-navbar-nav right>
-<!-- 
-            <mdb-dropdown>
-              <mdb-dropdown-toggle slot="toggle">Basic dropdown</mdb-dropdown-toggle>
-              <mdb-dropdown-menu>
-                <mdb-dropdown-item>Action</mdb-dropdown-item>
-                <mdb-dropdown-item>Another action</mdb-dropdown-item>
-                <mdb-dropdown-item>Something else here</mdb-dropdown-item>
-                <div class="dropdown-divider"></div>
-                <mdb-dropdown-item>Separated link</mdb-dropdown-item>
-              </mdb-dropdown-menu>
-            </mdb-dropdown> -->
-<!-- 
             <div class="dropdown">
-  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Dropdown link
-  </a>
+              <a class="btn btn-dark-green dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                About
+              </a>
 
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
-  </div>
-</div> -->
-
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a class="dropdown-item" href="#">Code of Conduct</a>
+                <a class="dropdown-item" href="#">Diversity Statement</a>
+                <a class="dropdown-item" href="#">Carbon Neutrality</a>
+                <a class="dropdown-item" href="#">Convince your Boss</a>
+              </div>
+            </div>
             <mdb-nav-item href="#schedules" waves-fixed>Schedules</mdb-nav-item>
             <mdb-nav-item href="#team" waves-fixed>Speakers</mdb-nav-item>
             <mdb-nav-item href="#sponsors"  waves-fixed>Partners</mdb-nav-item>
             <mdb-nav-item href="#contact-text" waves-fixed>Contact</mdb-nav-item>
           </mdb-navbar-nav>
-          
         </mdb-navbar-toggler>
         
       </mdb-container>
@@ -515,7 +505,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Gopher Speaker</a></h3>
-                <p>Product Designer, Tesla</p>
+                <p>Product Designer</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -562,7 +552,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Gopher Speaker</a></h3>
-                <p>Lead Designer, TNW</p>
+                <p>Lead Designer</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -586,7 +576,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Gopher Speaker</a></h3>
-                <p>Back-end Developer, ASUS</p>
+                <p>Back-end Developer</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -610,7 +600,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Gopher Speaker</a></h3>
-                <p>Full-stack Developer, Google</p>
+                <p>Full-stack Developer</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -634,7 +624,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Gopher Speaker</a></h3>
-                <p>UI Designer, Apple</p>
+                <p>UI Designer</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -658,7 +648,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Gopher Speaker</a></h3>
-                <p>Lead Designer, TNW</p>
+                <p>Lead Designer</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -682,7 +672,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Gopher Speaker</a></h3>
-                <p>Back-end Developer, ASUS</p>
+                <p>Back-end Developer</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -804,15 +794,15 @@
  
 <script>
   import {
-    //mdbDropdown, mdbDropdownItem, mdbDropdownMenu, mdbDropdownToggle, 
+    mdbDropdown, mdbDropdownItem, mdbDropdownMenu, mdbDropdownToggle,
      mdbContainer, mdbRow, mdbCol, ViewWrapper, mdbMask, mdbBtn, mdbIcon, mdbNavbar, mdbNavItem, mdbNavbarNav, mdbNavbarToggler, mdbNavbarBrand  } from 'mdbvue';
   export default {
     name: 'VideoBackgroundPage',
     components: {
-      // mdbDropdown,
-      // mdbDropdownItem,
-      // mdbDropdownMenu,
-      // mdbDropdownToggle,
+      //mdbDropdown,
+      //mdbDropdownItem,
+      //mdbDropdownMenu,
+      //mdbDropdownToggle,
       mdbContainer,    
       mdbNavbar,
       mdbNavItem,
@@ -863,6 +853,7 @@
       margin-bottom: 30px;
     }
     .dropdown-menu{
-      margin-top: 350px;
+      margin-top: 50px !important;
     }
+    
 </style>
