@@ -30,7 +30,7 @@
                 <!-- <div class="icon">
                   <img class="golang_img" src="../assets/img/golang.png"/>
                 </div> -->
-                <p class="banner-info">13-16 July 2020 - Gopher Hall, Lagos, Nigeria</p>
+                <p class="banner-info">14-16 July 2020 - Gopher Hall, Lagos, Nigeria</p>
                 <h2 class="head-title">GOPHERCON AFRICA</h2>
                 <p class="banner-desc">
                   The first GoLang Conference in Africa!
@@ -210,7 +210,7 @@
                 <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#monday" role="tab" aria-controls="monday" aria-expanded="true">
                   <div class="item-text">
                     <h4>Day 01</h4>
-                    <h5>14 February 2020</h5>
+                    <h5>14 July 2020</h5>
                   </div>
                 </a>
               </li>
@@ -218,7 +218,7 @@
                 <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#tuesday" role="tab" aria-controls="tuesday">
                   <div class="item-text">
                     <h4>Day 02</h4>
-                    <h5>15 February 2020</h5>
+                    <h5>15 July 2020</h5>
                   </div>
                 </a>
               </li>
@@ -226,7 +226,7 @@
                 <a class="nav-link" id="wednesday-tab" data-toggle="tab" href="#wednesday" role="tab" aria-controls="wednesday">
                   <div class="item-text">
                     <h4>Day 03</h4>
-                    <h5>16 February 2020</h5>
+                    <h5>16 July 2020</h5>
                   </div>
                 </a>
               </li>
