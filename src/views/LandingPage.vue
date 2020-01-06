@@ -20,6 +20,7 @@
                 <a class="dropdown-item" href="#">Diversity Statement</a>
                 <a class="dropdown-item" href="#">Carbon Neutrality</a>
                 <a class="dropdown-item" href="#">Convince your Boss</a>
+                <a class="dropdown-item" href="#">Community</a>
               </div>
             </div>
             <mdb-nav-item href="#schedules" waves-fixed>Schedules</mdb-nav-item>
@@ -54,7 +55,7 @@
                 </div>
                 
                 <div class="banner-btn">
-                  <a href="https://sessionize.com/gopherconafrica-2020/" class="btn btn-common">Call for Speakers</a>
+                  <a href="https://www.papercall.io/gopherconafrica" class="btn btn-common">Call for Speakers</a>
                 </div>
                 
               </div>
@@ -201,8 +202,8 @@
                 <i class="lni-briefcase"></i>
               </div>
               <div class="counter-content">
-                <div class="counterUp">10</div>
-                <p>Sponsors</p>
+                <div class="counterUp">20</div>
+                <p>Partners</p>
               </div>
             </div>
           </div>
