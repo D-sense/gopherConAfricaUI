@@ -19,8 +19,8 @@
                 <a class="dropdown-item" href="#">Code of Conduct</a>
                 <a class="dropdown-item" href="#">Diversity Statement</a>
                 <a class="dropdown-item" href="#">Carbon Neutrality</a>
-                <a class="dropdown-item" href="#">Convince your Boss</a>
                 <a class="dropdown-item" href="#">Community</a>
+                <a class="dropdown-item" href="#">Updates</a>
               </div>
             </div>
             <mdb-nav-item href="#schedules" waves-fixed>Schedules</mdb-nav-item>
