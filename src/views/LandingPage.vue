@@ -94,7 +94,7 @@
               <li>
                 <i class="lni-mic"></i>
               </li>
-              <li><span><b>Speakers</b> 25 Professionals</span></li>
+              <li><span><b>Speakers</b> 10 Professionals</span></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-xs-12">
@@ -102,7 +102,7 @@
               <li>
                 <i class="lni-user"></i>
               </li>
-              <li><span><b>Seats</b> 100 People</span></li>
+              <li><span><b>Seats</b> 250 People</span></li>
             </ul>
           </div>
         </div>
@@ -767,10 +767,11 @@
             <div class="subscribe-inner wow fadeInDown" data-wow-delay="0.3s">
               <h2 class="subscribe-title">Subscribe for updates</h2>
               <form class="text-center form-inline">
-                <input class="mb-20 form-control" name="email" placeholder="Enter Your Email Here">
-                <button type="submit" class="btn btn-common sub-btn" data-style="zoom-in" data-spinner-size="30" name="submit" id="submit">
-                  <span class="ladda-label"><i class="lni-check-box"></i> Subscribe</span>
-                </button>
+                  <a  class="form-control mb-20" data-style="zoom-in" data-spinner-size="30" type="submit"  href='http://eepurl.com/gpiED9'>
+                       <span class="ladda-label"><i class="lni-check-box"></i> Subscribe</span>
+                </a>
+                
+                
               </form>
             </div>
             <div class="footer-logo">
