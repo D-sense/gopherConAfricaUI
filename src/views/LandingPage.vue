@@ -94,7 +94,7 @@
               <li>
                 <i class="lni-mic"></i>
               </li>
-              <li><span><b>Speakers</b> 10 Professionals</span></li>
+              <li><span><b>Speakers</b> 20 Professionals</span></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-xs-12">
@@ -178,7 +178,7 @@
                 <i class="lni-mic"></i>
               </div>
               <div class="counter-content">
-                <div class="counterUp">10</div>
+                <div class="counterUp">20</div>
                 <p>Speakers</p>
               </div>
             </div>
