@@ -178,10 +178,7 @@
 
         <p class="outter_section">
            Questions or concerns about the Code of Conduct can be addressed to gopherconafrica@nectarhub.io (until general registration opens, this address will be checked infrequently)
-
         </p>
-
-        
     </div>
    </div>    
 </template>
