@@ -140,16 +140,45 @@
             Founder NetcarHub Software Company: <span class="email">alimieyitayo@nectarhub.io</span> or phone: <span class="email">+2348120231495</span>
         </p>
 
+        <p class="outter_section">
+            We will take all good-faith reports of harassment by GopherconAfrica - Lagos 2020 participants seriously. 
+            This includes harassment outside our spaces and harassment that took place at any point in time. The GopherconAfrica - Lagos 2020 organizing committee reserves the right to exclude people from GopherconAfrica - Lagos 2020 based on their past behaviour, 
+            including behaviour outside GopherconAfrica - Lagos 2020 spaces and behaviour towards people who are not part of GopherconAfrica - Lagos 2020.
+        </p>
+
+        <p class="outter_section">
+            We reserve the right to reject any report we believe to have been made in bad faith. 
+            This includes reports intended to silence legitimate criticism.
+        </p>
+
+        <p class="outter_section">
+            We will respect confidentiality requests for the purpose of protecting victims of abuse. 
+            We will not name harassment victims without their affirmative consent. 
+            All data is stored securely access will only be limited to Eyitayo Alimi, 
+            Founder, Nectar Hub Software Company, and select members of the GopherconAfrica - Lagos 2020 Diversity, 
+            Equity, Inclusion & Belonging Leadership team (specific members listed below).
+        </p>
+
+        <p class="outter_section">
+            Conference staff will also provide support to victims, including, but not limited to:
+        </p>
         <div class="section">
-            <li> A formal warning to stop harassing behaviour</li>
-            <li> Expulsion from the conference</li>
-            <li> Expulsion from the conference</li>
-            <li> Removal of partner collaterals from all our online platforms </li>
-            <li> Removal of partner displays or conference posters</li>
-            <li> Cancellation or early termination of talks or other contributions to the program </li>
+            <li> Providing an escort within GopherconAfrica - Lagos 2020 and affiliated events.</li>
+            <li> Contacting hotel/venue security or local law enforcement</li>
+            <li> Briefing key event staff for response/victim assistance</li>
+            <li> And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference. </li>
         </div>
-         <p class="outter_section">
-           Refunds may not be given in case of expulsion.
+
+        <p class="outter_section">
+           GopherconAfrica - Lagos 2020 Diversity, Equity, Inclusion & Belonging  Leadership 
+        </p>
+        <p class="outter_section">
+           <span class="email">Eyitayo Alimi</span>
+        </p>
+
+        <p class="outter_section">
+           Questions or concerns about the Code of Conduct can be addressed to gopherconafrica@nectarhub.io (until general registration opens, this address will be checked infrequently)
+
         </p>
 
         
