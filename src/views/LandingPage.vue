@@ -1,37 +1,8 @@
 <template>
     <div class="">
       <!-- Header Area wrapper Starts -->
-      <!-- <Header> </Header> -->
-    <mdb-navbar class="header" style="margin-top: 60px" color="primary" position="top" dark href="#" transparent scrolling>
-      <mdb-container>
-      <mdbNavbarBrand><a href="/" class="logo">GOPHERCON AFRICA</a></mdbNavbarBrand>  
-        
-
-        <mdb-navbar-toggler style="max-width: 1140px">
-          
-          <mdb-navbar-nav right>
-            <div class="dropdown">
-              <a class="btn btn-dark-green dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                About
-              </a>
-
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <a class="dropdown-item" href="#">Code of Conduct</a>
-                <a class="dropdown-item" href="#">Diversity Statement</a>
-                <a class="dropdown-item" href="#">Carbon Neutrality</a>
-                <a class="dropdown-item" href="#">Community</a>
-                <a class="dropdown-item" href="#">Updates</a>
-              </div>
-            </div>
-            <mdb-nav-item href="#schedules" waves-fixed>Schedules</mdb-nav-item>
-            <mdb-nav-item href="#team" waves-fixed>Speakers</mdb-nav-item>
-            <mdb-nav-item href="#sponsors"  waves-fixed>Partners</mdb-nav-item>
-            <mdb-nav-item href="#contact-text" waves-fixed>Contact</mdb-nav-item>
-          </mdb-navbar-nav>
-        </mdb-navbar-toggler>
-        
-      </mdb-container>
-    </mdb-navbar>
+      <Header> </Header>
+    
 
     <header id="header-wrap">
       <!-- Hero Area Start -->
@@ -795,67 +766,25 @@
 </template>
  
 <script>
+  import Header from '../components/Header.vue'
+
   import {
     mdbDropdown, mdbDropdownItem, mdbDropdownMenu, mdbDropdownToggle,
      mdbContainer, mdbRow, mdbCol, ViewWrapper, mdbMask, mdbBtn, mdbIcon, mdbNavbar, mdbNavItem, mdbNavbarNav, mdbNavbarToggler, mdbNavbarBrand  } from 'mdbvue';
   export default {
     name: 'VideoBackgroundPage',
     components: {
+      Header
       //mdbDropdown,
       //mdbDropdownItem,
       //mdbDropdownMenu,
       //mdbDropdownToggle,
-      mdbContainer,    
-      mdbNavbar,
-      mdbNavItem,
-      mdbNavbarNav,
-      mdbNavbarToggler,
-      mdbNavbarBrand
+
+      
     }
   }
 </script>
 
 <style scoped>
-.logo{
-  font-family:"Bangers, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif";
-  font-weight: 1000;
-  font-size: 1.5em;
-  color: #FF4D79;
-  height: 0px;
-      width: auto;
-      padding-right: 5px;
-  font-family: 'Share Tech Mono', monospace;
 
-}
-.header{
-      margin-top: 0px !important;
-    }
-    /* .logo {
-      height: 20px;
-      width: auto;
-      margin: 10px;
-      font-family: 'Share Tech Mono', monospace;
-
-    } */
-    .golang_img{
-      height: 200px;
-      width: 200px;
-    }
-    #information-bar{
-      margin-top: 65px;
-    }
-    #about{
-      margin-top: 65px;
-    }
-    .banner-btn{
-      height: 100px;
-    }
-
-    .about-p{
-      margin-bottom: 30px;
-    }
-    .dropdown-menu{
-      margin-top: 50px !important;
-    }
-    
 </style>

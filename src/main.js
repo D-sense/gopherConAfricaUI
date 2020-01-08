@@ -8,6 +8,12 @@ import Login from './views/Login.vue'
 import Home from './views/Home.vue'
 import SignupSuccess from './views/SignupSuccess.vue';
 
+import CarbonNeutrality from './views/CarbonNeutrality.vue';
+import CodeOfConduct from './views/CodeOfConduct.vue';
+import DataPrivacy from './views/DataPrivacy.vue';
+import DiversityStatement from './views/DiversityStatement.vue';
+import TermsOfUse from './views/TermsOfUse.vue';
+
 import 'bootstrap'
 
 import '@fortawesome/fontawesome-free/css/all.min.css'
@@ -57,9 +63,41 @@ export const router = new VueRouter({
       }
     },
     {
-      path: '/login',
-      name: 'login',
-      component: Login,
+      path: '/carbon-neutrality',
+      name: 'carbon-neutrality',
+      component: CarbonNeutrality,
+      meta: { 
+        guest: true
+      }
+    },
+    {
+      path: '/code-of-conduct',
+      name: 'code-of-conduct',
+      component: CodeOfConduct,
+      meta: { 
+        guest: true
+      }
+    },
+    {
+      path: '/data-privacy',
+      name: 'data-privacy',
+      component: DataPrivacy,
+      meta: { 
+        guest: true
+      }
+    },
+    {
+      path: '/diversity-statement',
+      name: 'diversity-statement',
+      component: DiversityStatement,
+      meta: { 
+        guest: true
+      }
+    },
+    {
+      path: '/terms-of-use',
+      name: 'terms-of-use',
+      component: TermsOfUse,
       meta: { 
         guest: true
       }
