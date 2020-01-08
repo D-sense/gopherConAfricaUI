@@ -29,9 +29,9 @@
            Organizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all.
         </p>
 
-        <h4>
+        <h3>
             Expected Behavior
-        </h4>
+        </h3>
 
         <p class="head">
            All conference participants agree to:
@@ -89,7 +89,6 @@
         <h3>
             Additional Requirements for Conference Contributions
         </h3>
-
         <p class="outter_section">
            Presentation slides and posters should not contain offensive or sexualised material. 
            If this material is impossible to avoid given the topic (for example using contents 
@@ -161,5 +160,8 @@ export default {
 
 span.email{
    color: blue;
+}
+h3{
+    margin-top: 20px;
 }
 </style>
