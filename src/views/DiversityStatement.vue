@@ -28,12 +28,11 @@
             <li>
                 Preferred seating at conference sessions due to conditions including, but not limited to:
                 <div class="list-object"> 
-                <li> Mobility limitations</li>
-                <li> Visual and/or hearing impairments</li>
+                    <li> Mobility limitations</li>
+                    <li> Visual and/or hearing impairments</li>
             </div>
             </li>
             
-
             <li>
                 Sign-language / Live captioning
             </li>
@@ -103,7 +102,11 @@ export default {
 
 .content{
      margin-top: 150px;
-     margin-bottom: 200px;
+     margin-bottom: 100px;
+     padding: 50px;
+     -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+     -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+     box-shadow:         3px 3px 5px 6px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
 }
 .header{
     color:red !important;
@@ -111,20 +114,21 @@ export default {
 }
 
 .head{
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 30px;
 }
 
 .section{
     padding: 5px;
-    font-size: 18px;
+    font-size: large !important;
     margin-left: 20px; 
     line-height: 30px;
 }
 
 .outter_section{
-    font-size: 20px !important;
+    font-size: large !important;
     margin-top: 10px;
+    word-wrap: break-word;
 }
 
 span.email{
