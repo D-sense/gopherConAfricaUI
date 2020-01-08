@@ -115,12 +115,16 @@
            for all code of conduct violations. Potential responses include:
         </p>
         <div class="section">
-            <li>  </li>
-
-            <li>  </li>
-            
-            <li> </li>
+            <li> A formal warning to stop harassing behaviour</li>
+            <li> Expulsion from the conference</li>
+            <li> Expulsion from the conference</li>
+            <li> Removal of partner collaterals from all our online platforms </li>
+            <li> Removal of partner displays or conference posters</li>
+            <li> Cancellation or early termination of talks or other contributions to the program </li>
         </div>
+         <p class="outter_section">
+           Refunds may not be given in case of expulsion.
+        </p>
 
         
     </div>
