@@ -126,6 +126,32 @@
            Refunds may not be given in case of expulsion.
         </p>
 
+
+
+        <h3>
+            What To Do If You Witness or Are Subject To Unacceptable Behavior
+        </h3>
+        <p class="outter_section">
+           If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the GopherconAfrica - Lagos 2020 staff.
+        </p>
+        <p class="outter_section">
+            Event staff can be identified by t-shirt & badge (further description pending) during the event. 
+            A member of the organizing staff can be found at the event registration counter at any time. You can also contact Eyitayo Alimi, 
+            Founder NetcarHub Software Company: <span class="email">alimieyitayo@nectarhub.io</span> or phone: <span class="email">+2348120231495</span>
+        </p>
+
+        <div class="section">
+            <li> A formal warning to stop harassing behaviour</li>
+            <li> Expulsion from the conference</li>
+            <li> Expulsion from the conference</li>
+            <li> Removal of partner collaterals from all our online platforms </li>
+            <li> Removal of partner displays or conference posters</li>
+            <li> Cancellation or early termination of talks or other contributions to the program </li>
+        </div>
+         <p class="outter_section">
+           Refunds may not be given in case of expulsion.
+        </p>
+
         
     </div>
    </div>    
