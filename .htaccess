@@ -1,0 +1,6 @@
+_ RewriteEngine On_
+_ RewriteBase /_
+_ RewriteRule ^index.html$ - [L]_
+_ RewriteCond %{REQUEST_FILENAME} !-f_
+_ RewriteCond %{REQUEST_FILENAME} !-d_
+_ RewriteRule . /index.html [L]_

@@ -101,11 +101,26 @@
             Additional Requirements for partners
         </h3>
         <p class="outter_section">
-           partners should not use sexualized images, activities, or other material. 
+           Partners should not use sexualized images, activities, or other material. 
            Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes 
            or otherwise create a sexualised environment. In case of violations, 
            sanctions may be applied without return of partnership contribution.
         </p>
+
+        <h3>
+            Procedure for Code of Conduct Violations
+        </h3>
+        <p class="outter_section">
+           The organizing committee reserves the right to determine the appropriate response 
+           for all code of conduct violations. Potential responses include:
+        </p>
+        <div class="section">
+            <li>  </li>
+
+            <li>  </li>
+            
+            <li> </li>
+        </div>
 
         
     </div>
