@@ -79,7 +79,7 @@
             No, we delete the scans after sending them to each partner.
         </p>
 
-        <h6>How can I exercise my rights of access, opposition and deletion of my data?</h6>
+        <h5>How can I exercise my rights of access, opposition and deletion of my data?</h5>
         <p class="outter_section">
            When the partner communicates with you by email, you may exercise your rights directly with 
            its staff and in particular, 

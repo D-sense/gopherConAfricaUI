@@ -18,8 +18,9 @@
                 <a class="dropdown-item" href="diversity-statement">Diversity Statement</a>
                 <a class="dropdown-item" href="carbon-neutrality">Carbon Neutrality</a>
                 <a class="dropdown-item" href="data-privacy">Data Privacy</a>
-                <a class="dropdown-item" href="community">Community</a>
-                <a class="dropdown-item" href="updates">Updates</a>
+                <a class="dropdown-item" href="terms-of-use">Terms of Use</a>
+                <a class="dropdown-item" href="#">Community</a>
+                <a class="dropdown-item" href="#">Updates</a>
               </div>
             </div>
             <mdb-nav-item href="#schedules" waves-fixed>Schedules</mdb-nav-item>
