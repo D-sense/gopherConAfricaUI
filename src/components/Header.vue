@@ -17,6 +17,7 @@
                 <a class="dropdown-item" href="code-of-conduct">Code of Conduct</a>
                 <a class="dropdown-item" href="diversity-statement">Diversity Statement</a>
                 <a class="dropdown-item" href="carbon-neutrality">Carbon Neutrality</a>
+                <a class="dropdown-item" href="data-privacy">Data Privacy</a>
                 <a class="dropdown-item" href="community">Community</a>
                 <a class="dropdown-item" href="updates">Updates</a>
               </div>

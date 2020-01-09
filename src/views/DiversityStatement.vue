@@ -30,7 +30,7 @@
                 <div class="list-object"> 
                     <li> Mobility limitations</li>
                     <li> Visual and/or hearing impairments</li>
-            </div>
+                </div>
             </li>
             
             <li>
@@ -133,5 +133,9 @@ export default {
 
 span.email{
    color: blue;
+}
+
+.list-object{
+    margin-left: 25px;
 }
 </style>
