@@ -15,7 +15,7 @@
                 <!-- <div class="icon">
                   <img class="golang_img" src="../assets/img/golang.png"/>
                 </div> -->
-                <p class="banner-info">14-16 July 2020 - Gopher Hall, Lagos, Nigeria</p>
+                <p class="banner-info">00-00 -- ---- - Gopher Hall, Lagos, Nigeria</p>
                 <h2 class="head-title">GOPHERCON AFRICA</h2>
                 <p class="banner-desc">
                   The first GoLang Conference in Africa!
@@ -57,7 +57,7 @@
               <li>
                 <i class="lni-calendar"></i>
               </li>
-              <li><span><b>Date & Time</b> 14-16 July  8am - 6pm Daily</span></li>
+              <li><span><b>Date & Time</b> 00-00 --  8am - 6pm Daily</span></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-xs-12">
@@ -80,6 +80,89 @@
       </div>
     </section>
     <!-- Information Bar End -->
+
+
+    <!-- <About> </About> -->
+     <section id="about" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <!-- <div class="col-lg-6 col-md-12 col-xs-12">
+            <div class="img-thumb">
+              <img class="img-fluid" src="../assets/img/img/about/img1.png" alt="">
+            </div>
+          </div> -->
+          <div class="col-lg-10 col-md-12 col-xs-12">
+            <div class="about-content">
+              <div>
+                <div class="about-text">  
+                  <div class="about-p">
+                    <h2> VERY IMPORTANT UPDATE </h2>                  </div> 
+
+                   <p> Hi there,</p>
+
+<p>
+First, we know no words will do justice to everyone's individual experiences over the last couple of weeks. All of us feel the weight of our responsibility to the community, particularly right now.
+</p>
+
+<p>
+For almost 12 months we’ve been hard at work planning the first and largest gathering of gophers in Africa to date and are incredibly excited about the programme we’ve developed for our community.
+</p>
+
+<p>
+We have been monitoring the current COVID-19 outbreak very closely and making contingency plans to ensure the safety of our attendees. With events accelerating so quickly in Africa and across the world we have now taken the decision that our community will be safer if we do not gather together in July.
+</p>
+
+<p>
+Given the uncertainty of how the situation will develop in the months ahead, we have taken the difficult decision to postpone the conference further.
+</p>
+
+<p>
+We believe this will give us all the best chance to experience a safe and enjoyable conference.
+</p>
+
+<p>
+This also means that the side event we had scheduled around Gophercon Africa 2020 conference will be postponed. The new dates for these are still being confirmed and will be communicated to all those involved as soon as we have more information. 
+</p>
+
+<p>
+If you have any further questions, get in touch via gopherconafrica@nectarhub.io
+</p>
+
+
+<p>
+We know many of you are involved in your own company’s response plans and we offer our good wishes for success in coping with this challenging time. 
+</p>
+
+<p>
+We appreciate your patience as the situation has evolved and really look forward to seeing you at the Gophercon Africa 2020 Conference when the new date is announced.
+</p>
+
+
+<p>
+All the best,
+</p>
+
+<p>
+The Gophercon Africa Team @ nectarhub.iio
+</p>
+
+                  </div> 
+
+                 <div class="about-p">
+                  
+                 </div>
+
+                 <div class="about-p">  
+                  
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- CORONAVIRUS Section End -->
 
     <!-- About Section Start -->
     <!-- <About> </About> -->
@@ -213,7 +296,7 @@
                 <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#monday" role="tab" aria-controls="monday" aria-expanded="true">
                   <div class="item-text">
                     <h4>Day 01</h4>
-                    <h5>14 July 2020</h5>
+                    <h5>00 -- 2020</h5>
                   </div>
                 </a>
               </li>
@@ -221,7 +304,7 @@
                 <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#tuesday" role="tab" aria-controls="tuesday">
                   <div class="item-text">
                     <h4>Day 02</h4>
-                    <h5>15 July 2020</h5>
+                    <h5>00 -- 2020</h5>
                   </div>
                 </a>
               </li>
@@ -229,7 +312,7 @@
                 <a class="nav-link" id="wednesday-tab" data-toggle="tab" href="#wednesday" role="tab" aria-controls="wednesday">
                   <div class="item-text">
                     <h4>Day 03</h4>
-                    <h5>16 July 2020</h5>
+                    <h5>00 -- 2020</h5>
                   </div>
                 </a>
               </li>
@@ -786,5 +869,7 @@
 </script>
 
 <style scoped>
-
+.about-text p{
+  font-size: 120%;
+}
 </style>
